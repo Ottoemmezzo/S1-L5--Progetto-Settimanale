@@ -1,0 +1,144 @@
+body {
+    background-color: white;
+    text-align: center;
+
+    
+    }
+header {
+    background-color: black;
+    width: 500px;
+    height:140px;
+    margin:auto;
+    padding-top:50px;
+    
+}    
+header div{
+    background-color: black;
+     
+    
+}
+main{
+    
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    color:#393d41 ;
+    width:500px;
+    margin:auto;
+    line-height: 1.65;
+
+}
+#box1{
+    padding-top: 50px;
+    height:500px;
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    
+
+}
+main h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:3rem;
+    font-weight: 1000;
+    color:#25a2c3;
+
+    line-height:0.8;
+}
+main h2{
+    font-size:1.5rem;
+
+}
+main div button{
+    background-color: #f04c2f;
+    color:white;
+    font-size: 1.4rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    width:200px;
+    height:60px;
+    border-radius: 10px;
+}
+#circolo{
+    width:500px;
+    height:400px;
+    border-radius:50%;
+    background-image: url(../images/notebook.jpg);
+    background-size: 500px 400px;
+} 
+#box2{
+    padding-top:70px;
+    background-color: rgb(255, 55, 0);
+    color: white;
+    height:350px;
+}
+#box2 h1{
+ color:white;
+}
+#box2 h2{
+    font-size: 1.8rem;
+ 
+}
+#box2 h3{
+    font-size:1.2rem;
+}
+#box2 cite{
+    font-size: 1.4rem;
+    font-style: italic;
+}
+.sezioni{
+    margin: auto;
+    width: 400px;
+    border: 2px;
+    border-style:solid;
+    border-color: #dee1e3;
+    border-radius: 10px;
+}
+.sezioni h1{
+    font-size: 1.5rem;
+
+}
+.sezioni h2{
+
+    font-size:1.5rem;
+    
+}
+footer{
+    
+    padding-top:80px;
+    font-family: 'Open sans';
+    font-size: 1.5rem;
+    color:white;
+    height: 350px;
+    width:500px;
+    margin:auto;
+    background-color: #69daf9;
+    line-height: normal;
+}
+footer h1{
+    font-family: 'montserrat';
+    font-size: 1.8rem;
+    font-weight: bold;
+    color:white;
+}
+footer p{
+    font-size: 1.2rem;
+}
+footer ul{
+    list-style: none;
+}
+}
+footer i{
+    font-size: 1.5rem;
+    color:white;
+}
+footer a{
+    color:#c8e7f0;
+}
+footer div{
+    width:300px;
+    margin: auto;
+    border-top: 2px solid white;
+}
+#tel{
+    text-decoration:underline;
+}
